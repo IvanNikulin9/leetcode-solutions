@@ -1,4 +1,3 @@
-markdown
 # LeetCode Solutions (Вариант 56)
 
 Репозиторий с решениями задач с платформы [LeetCode](https://leetcode.com/).
